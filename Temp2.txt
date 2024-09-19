@@ -1,1 +1,2 @@
 "Temp2 file"
+"temp2 changed to check reset"
