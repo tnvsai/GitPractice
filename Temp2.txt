@@ -1,2 +1,3 @@
 "Temp2 file"
 "temp2 changed to check reset"
+"merge change in Temp2 file feature1"
