@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 "Temp2 file"
 "temp2 changed to check reset"
 "new branch testing temp2"
+=======
+>>>>>>> ab7cf3ea8978dc2cfaed635086a02d36d6571331
